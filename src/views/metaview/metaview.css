@@ -1,0 +1,40 @@
+.btn-padding{
+    padding-top: 20px
+ }
+ .text-style{
+     font-size: 30px
+ }
+ .catelog_tbl .card-body {
+    padding: 0;
+}
+ .catelog_tbl table.table thead {
+    display: none;
+}
+.catelog_tbl ul.pagination.justify-content-start {
+    margin-bottom: 0px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.mapping_tbl .card-header,.mapping_tbl .card-body {  padding: 0; }
+.mapping_tbl .dropdown-toggle::after {
+    margin-left: 1.255em !important;
+}
+.mapping_tbl .nav-item {
+    border-radius: 0;
+    border-right: 1px solid #d8dbe0;
+    width: 25%;
+    text-align: center;
+}
+.mapping_tbl .nav-item:last-child{
+    border-radius: 0;
+    border-right: 0px solid;
+}
+.type_data{ max-height: 200px; overflow: scroll;} 
+.catalogue_list .nav-item{
+border: 1px solid #d8dbe0;
+    border-radius: 5px;
+}
+.catalogue_list .dropdown-toggle::after {
+    margin-left: 1.255em !important;
+}
