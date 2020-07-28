@@ -186,6 +186,7 @@ class AdminView extends Component {
                                         }}
                                     />
                                 </CRow>
+                                
                             </CCol>
                         </CRow>
                         <CFormGroup row>
